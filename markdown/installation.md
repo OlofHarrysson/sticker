@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-19T17:30:16.167Z
+date: 2020-01-19T17:38:30.511Z
 tags: installation
 ---
 
@@ -19,7 +19,10 @@ arrows
 ## Install Docker
 Docker allows for easy installation. You can install Docker Desktop for Mac through [their website](https://www.docker.com/get-started).
 
-## Setup Splitter from github
+## Setup Splitter
+1. Open a Finder window and navigate to the folder where you want to install the project.
+2. Right click the folder and select New Terminal at Folder. A new window will open.
+3. Copy the command into the terminal window and press enter <kbd>git clone https://github.com/OlofHarrysson/splitter.git</kbd>
 
 
 ## Setup a Google Cloud Project
