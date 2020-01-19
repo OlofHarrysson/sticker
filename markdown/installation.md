@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-19T17:07:01.345Z
+date: 2020-01-19T17:11:53.712Z
 tags: installation
 ---
 
@@ -21,9 +21,9 @@ This guide will help you install Sticker and try it out on an example. There are
 2. Create a new bucket and remember the name. Use the default settings for the options.
 
 ### Enable the Speech to Text API
-1. Go to [https://console.cloud.google.com/apis/library/speech.googleapis.com](https://console.cloud.google.com/apis/library/speech.googleapis.com)
-2. Press "Enable" and wait for the console page to load
-3. Go to the ["Credentials"](https://console.cloud.google.com/apis/credentials) page.
+1. Go to the [https://console.cloud.google.com/apis/library/speech.googleapis.com](https://console.cloud.google.com/apis/library/speech.googleapis.com).
+2. Press <kbd>Enable</kbd> and wait for the console page to load.
+3. Go to the [Credentials](https://console.cloud.google.com/apis/credentials) page and press <kbd>Create credentials</kbd> -> <kbd>Service account key</kbd>.
 
 
 
