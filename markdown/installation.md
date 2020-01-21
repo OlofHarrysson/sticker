@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-21T00:02:11.914Z
+date: 2020-01-21T00:04:03.515Z
 tags: installation
 ---
 
@@ -28,7 +28,7 @@ The easiest way to run the program is through Docker. You can install Docker Des
 `python setup/build_docker.py`
 
 ## Test the Program
-<kbd>python create_enriched_xml.py</kbd>
+`python create_enriched_xml.py`
 
 ###### Export a Final Cut XML-file
 Move this to usage
