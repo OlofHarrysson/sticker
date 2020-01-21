@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-20T23:51:41.244Z
+date: 2020-01-21T00:01:58.921Z
 tags: installation
 ---
 
@@ -22,13 +22,15 @@ The easiest way to run the program is through Docker. You can install Docker Des
 
 ###### Clone the git repo
 `git clone https://github.com/OlofHarrysson/splitter.git`
+`cd splitter`
 
 ###### Build docker image
-`python splitter/setup/build_docker.py`
+`python setup/build_docker.py`
+
+## Test the Program
+<kbd>python create_enriched_xml.py</kbd>
 
 ###### Export a Final Cut XML-file
-
-
 1. Open Final Cut pro.
 2. Select the event you wish to export.
 > It's recommended that a new event is created containing videos with speech commands. Videos can be up to 15 minutes long ~(BETA)~.
