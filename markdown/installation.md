@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-21T00:01:58.921Z
+date: 2020-01-21T00:02:11.914Z
 tags: installation
 ---
 
@@ -31,6 +31,7 @@ The easiest way to run the program is through Docker. You can install Docker Des
 <kbd>python create_enriched_xml.py</kbd>
 
 ###### Export a Final Cut XML-file
+Move this to usage
 1. Open Final Cut pro.
 2. Select the event you wish to export.
 > It's recommended that a new event is created containing videos with speech commands. Videos can be up to 15 minutes long ~(BETA)~.
