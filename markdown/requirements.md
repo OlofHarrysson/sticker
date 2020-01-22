@@ -2,7 +2,7 @@
 title: Requirements
 description: placeholder
 published: true
-date: 2020-01-19T16:08:31.390Z
+date: 2020-01-22T17:06:57.959Z
 tags: Requirements
 ---
 
@@ -17,6 +17,5 @@ Make sure that you
 - Install Docker which will run the program. You can install Docker Desktop for Mac through [their website](https://www.docker.com/get-started).
 
 Put in links that people can tell me which versions did work and which didn't
-put some info about that sound clips are being analyzed by google and that it will cost money - specify how much.
 
 # Instructions to checking if requirements are fulfilled.
