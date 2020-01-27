@@ -2,33 +2,34 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-21T00:06:09.679Z
+date: 2020-01-27T20:16:03.303Z
 tags: installation
 ---
 
-# Outline
-This guide will help you install Sticker and try it out on an example. There are two installation guides, one geared towards developers and one for
+
+# Installation
+
+This guide will help you install Butler and verify that it was installed correctly.
 
 > Before starting the installation, make sure that you meet the [requirements](TODO).
 {.is-info}
 
-# Installation
 ## Docker
-The easiest way to run the program is through Docker. You can install Docker Desktop for Mac at [their website](https://www.docker.com/get-started). See [Advanced Installation](TODO) if you wish to install the program differently.
+The easiest way to run Butler is through Docker. You can install Docker Desktop for Mac at [their website](https://www.docker.com/get-started). See [Advanced Installation](TODO) if you wish to install the program differently.
 
 ## Project Setup
 > Not a developer? The [installation video](TODO) might help 
 {.is-warning}
 
 ###### Clone the git repo
-`git clone https://github.com/OlofHarrysson/splitter.git`
-`cd splitter`
+`git clone https://github.com/OlofHarrysson/editing-butler.git`
+`cd editing-butler`
 
 ###### Build docker image
 `python setup/build_docker.py`
 
 ## Test the Program
-`python create_enriched_xml.py`
+`python docker_enrich_xml.py`
 
 ###### Export a Final Cut XML-file
 Move this to usage
