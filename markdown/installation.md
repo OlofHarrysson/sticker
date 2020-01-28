@@ -2,10 +2,9 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-28T19:38:51.341Z
+date: 2020-01-28T19:54:42.874Z
 tags: installation
 ---
-
 
 # Installation
 
@@ -26,6 +25,7 @@ The easiest way to run Butler is through Docker. You can get [Docker Desktop](ht
 git clone https://github.com/OlofHarrysson/editing-butler.git
 cd editing-butler
 ```
+
 ###### Build docker image
 ```python
 python setup/build_docker.py
@@ -60,7 +60,11 @@ pip install -r setup/requirements.txt
 python enrich_xml.py --test
 ```
 
-# Installation
+# Private Google Cloud Project
+Butler~(BETA)~ runs on the Google Cloud API SpeechToText. Since this is costly to run for us (about $4/hour of speech), we suspend the program once the daily limit of requests is reached. This quota is not per-user but shared amongst all users.
+
+If you'd like to continue to use Butler after the daily limit is reached you'll have to create your own Google Cloud project.
+
 ## Setup a Google Cloud Project
 1. Go to [https://cloud.google.com/](https://cloud.google.com/) and create an account.
 2. Create a new project.
