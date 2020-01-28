@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-28T19:54:42.874Z
+date: 2020-01-28T20:00:00.488Z
 tags: installation
 ---
 
@@ -70,10 +70,12 @@ If you'd like to continue to use Butler after the daily limit is reached you'll 
 2. Create a new project.
 
 ### Setup Google Cloud Storage
+Googles SpeechToText service requires the sound file to be uploaded to Google's cloud storage.
 1. Go to [https://console.cloud.google.com/storage/](https://console.cloud.google.com/storage/)
 2. Create a new bucket and remember the name. Use the default settings for the options.
 
 ### Enable the Speech to Text API
-1. Go to the [https://console.cloud.google.com/apis/library/speech.googleapis.com](https://console.cloud.google.com/apis/library/speech.googleapis.com).
+1. Go to [https://console.cloud.google.com/apis/library/speech.googleapis.com](https://console.cloud.google.com/apis/library/speech.googleapis.com).
 2. Press <kbd>Enable</kbd> and wait for the console page to load.
 3. Go to the [Credentials](https://console.cloud.google.com/apis/credentials) page and press <kbd>Create credentials</kbd> -> <kbd>Service account key</kbd>.
+4. Set the role to Project Owner and create a json key. Don't share this key-file as anyone who gets a hold of it can access and use your Google Cloud project.
