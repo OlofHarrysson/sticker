@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-27T20:16:03.303Z
+date: 2020-01-28T18:30:27.529Z
 tags: installation
 ---
 
