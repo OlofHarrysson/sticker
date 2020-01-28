@@ -2,7 +2,7 @@
 title: Requirements
 description: placeholder
 published: true
-date: 2020-01-22T17:06:57.959Z
+date: 2020-01-28T21:33:32.448Z
 tags: Requirements
 ---
 
@@ -11,7 +11,7 @@ tags: Requirements
 Note that the project is under development and can sometimes function suboptimally.
 
 Make sure that you
-- Have a Mac computer with a somewhat recent operative system. It's being developed on Mac OS Catalina (10.15.2) but older versions are probably fine.
+- Have a Mac computer with a somewhat recent operative system. It's being developed on Mac OS Catalina (10.15.2) but older versions are probably fine. [How to check](#Foo)
 - Have Final Cut Pro installed on your Mac. It's tested on Final Cut Pro version 10.4.7.
 - Free disk space (~10 GB or more).
 - Install Docker which will run the program. You can install Docker Desktop for Mac through [their website](https://www.docker.com/get-started).
@@ -19,3 +19,7 @@ Make sure that you
 Put in links that people can tell me which versions did work and which didn't
 
 # Instructions to checking if requirements are fulfilled.
+
+#### Mac OS Version
+#Foo
+![pingu.gif](/pingu.gif)
