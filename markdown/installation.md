@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-28T21:22:59.616Z
+date: 2020-01-28T21:23:59.754Z
 tags: installation
 ---
 
@@ -81,3 +81,4 @@ Googles SpeechToText service requires the sound file to be uploaded to Google's 
 4. Set the role to Project Owner and create a json key. Don't share this key-file as anyone who gets a hold of it can access and use your Google Cloud project.
 5. Move the file to the editing-butler directory.
 6. Open the file `config.py` file in a text editor and change the google_key value to your file path. `self.google_key = myfilename.json`
+7. Test the program as described in the installation guide
