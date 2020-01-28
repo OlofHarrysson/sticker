@@ -2,7 +2,7 @@
 title: Installation
 description: 
 published: true
-date: 2020-01-28T19:31:52.117Z
+date: 2020-01-28T19:38:51.341Z
 tags: installation
 ---
 
@@ -39,13 +39,26 @@ python docker_enrich_xml.py --test
 ---
 
 ## Custom Installation
-You can also run Butler without Docker. For this you need to install ffmpeg and Python 3.7+ on your system.
+You can also run Butler without Docker. If you'd like to do this, we reccomend installing Butler thought [Anaconda](https://www.anaconda.com/).
 
-We would then recommended installing thought [Anaconda](https://www.anaconda.com/).
+###### Clone the git repo
+```bash
+git clone https://github.com/OlofHarrysson/editing-butler.git
+cd editing-butler
+```
 
+###### Create virtual environment
+```bash
+conda create -n butler_env python=3.7
+conda activate butler_env
+conda install -c conda-forge ffmpeg
+pip install -r setup/requirements.txt
+```
 
-
-
+###### Test the Program
+```python
+python enrich_xml.py --test
+```
 
 # Installation
 ## Setup a Google Cloud Project
