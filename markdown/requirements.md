@@ -2,23 +2,19 @@
 title: Requirements
 description: placeholder
 published: true
-date: 2020-02-01T12:44:39.764Z
+date: 2020-02-01T16:54:52.537Z
 tags: Requirements
 ---
 
 # Before you install Sticker
 
-Note that the project is under development and can sometimes function suboptimally.
-
-Make sure that you
-- Have a Mac computer with a somewhat recent operative system. It's being developed on Mac OS Catalina (10.15.2) but older versions are probably fine. [How to check](#Foo) ![pingu.gif](/pingu.gif)
+**Make sure that you**
+- Have a Mac computer with a somewhat recent operative system. It's being developed on Mac OS Catalina (10.15.2) but older versions are probably fine.
 - Have Final Cut Pro installed on your Mac. It's tested on Final Cut Pro version 10.4.7.
 - ~1 GB free disk space (10+ GB is recommended).
-- Install Docker which will run the program. You can install Docker Desktop for Mac through [their website](https://www.docker.com/get-started).
 
-Put in links that people can tell me which versions did work and which didn't
 
-# Instructions to checking if requirements are fulfilled.
+## Checking requirements
 
 #### Mac OS Version
 #Foo
