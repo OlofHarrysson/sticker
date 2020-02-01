@@ -2,7 +2,7 @@
 title: Requirements
 description: placeholder
 published: true
-date: 2020-02-01T16:54:52.537Z
+date: 2020-02-01T22:38:09.261Z
 tags: Requirements
 ---
 
@@ -17,5 +17,7 @@ tags: Requirements
 ## Checking requirements
 
 #### Mac OS Version
-#Foo
-![pingu.gif](/pingu.gif)
+![macos_version.gif](/macos_version.gif)
+
+#### Final Cut Pro Version
+![finalcut_version.gif](/finalcut_version.gif)
