@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-02-01T16:43:27.409Z
+date: 2020-02-01T16:43:58.444Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -18,7 +18,7 @@ The easiest way to run Butler is through Docker. You can get [Docker Desktop](ht
 
 ### Project Setup
 > Not a developer? The [installation video](TODO) might help 
-{.is-warning}
+{.is-info}
 
 ###### Clone the git repo
 ```bash
