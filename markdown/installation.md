@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-01-28T21:28:22.300Z
+date: 2020-02-01T16:43:27.409Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -33,7 +33,7 @@ python setup/build_docker.py
 
 ###### Test the Program
 ```python
-python docker_enrich_xml.py --test
+python docker_enrich_xml.py --xml_file=assets/setup_test.fcpxml
 ```
 
 ---
@@ -57,7 +57,7 @@ pip install -r setup/requirements.txt
 
 ###### Test the Program
 ```python
-python enrich_xml.py --test
+python enrich_xml.py --xml_file=assets/setup_test.fcpxml
 ```
 
 # Private Google Cloud Project
