@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-02-01T16:51:32.488Z
+date: 2020-02-01T16:53:02.225Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -39,7 +39,7 @@ python docker_enrich_xml.py --xml_file=assets/setup_test.fcpxml
 ---
 
 ## Custom Installation
-You can also run Butler without Docker. If you'd like to do this, we reccomend installing Butler thought [Anaconda](https://www.anaconda.com/).
+You can also run Butler without Docker. If you'd like to do this, we reccomend installing Butler thought [Anaconda](https://www.anaconda.com/). Other installation methods are not covered in this guide.
 
 ###### Clone the git repo
 ```bash
