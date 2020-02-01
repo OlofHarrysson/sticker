@@ -2,7 +2,7 @@
 title: Requirements
 description: placeholder
 published: true
-date: 2020-02-01T12:42:51.839Z
+date: 2020-02-01T12:44:39.764Z
 tags: Requirements
 ---
 
