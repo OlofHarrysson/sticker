@@ -2,11 +2,32 @@
 title: Editing Butler
 description: 
 published: true
-date: 2020-02-05T19:18:45.791Z
+date: 2020-02-05T20:34:22.878Z
 tags: 
 ---
 
-# This is a title
+# Editing Butler
+## Concept
+
+Spend less time looking for the videos that you want to find and more time being creative. Not really what I want here in the intro
+
+Video editing takes a lot of effort, especially if there's large amounts of unstructed media.
+
+
+
+Creating a video doesn't have to be divided into film and edit. What not merge?
+Some ideas about your videos are best captured while recording
+
+Ever heard someone say, "we'll fix that in post?"
+
+**We'll fix that in post.** Sounds familiar? What if you're the one who'll have to fix
+
+**We'll fix that in post.** Sounds familiar? Video editing takes a lot of effort, especially if there's large amounts of unstructed media. But what if you could say, Alexa - remind me to fix that in post.
+
+It's Monday morning and you're opening your video editor to have a look at last weeks recordings. You've been dreading this moment becuase you know the shoot was a bit chaotic and there's no structure to the videos. No matter, it's on you to  
+
+You've just spent 
+
 
 Time to edit!
 Do you spend a lot of time skimming through video to find that moment you're looking for? 
