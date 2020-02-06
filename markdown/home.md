@@ -2,7 +2,7 @@
 title: Editing Butler
 description: 
 published: true
-date: 2020-02-06T19:18:22.219Z
+date: 2020-02-06T19:20:55.442Z
 tags: 
 ---
 
@@ -11,11 +11,11 @@ tags:
 
 Video editing is a time consuming process, especially if there's large amounts of unstructed media to sift through. To make the editing process more managable, one can look over the media and categorize it. This method might be preferable to the alternative of working with unorganized media but requires an intial effort that's neither fun nor free.
 
-Butler was created to lubricate the undesirable aspects of organizing raw video footage. It allows you to effortlessly take notes and issue commands during a shoot without any additional tools than your own voice. Wouldn't it be great to transfer ideas at the set to whoever is editing the video, especially if you're editing your own videos!
+Butler was created to lubricate the undesirable aspects of organizing raw video footage. It allows you to effortlessly **take notes** and issue commands **during a shoot** without any additional tools than your own **voice**. Wouldn't it be great to transfer ideas at the set to whoever is editing the video, especially if you're editing your own videos!
 
 
 ## What is Butler?
-Butler is a smart assistant that allows you to add information about your video clips during recording. To do this, Butler utilizes speech recognition to listen for certain **voice commands** similarly to Siri or Alexa. These voice commands are interpreted and used to organize your media within Final Cut Pro.
+Butler is a **smart assistant** that allows you to add information about your video clips during recording. To do this, Butler utilizes speech recognition to listen for certain **voice commands** similarly to Siri or Alexa. These voice commands are interpreted and used to organize your media within **Final Cut Pro**.
 
 
 ## What can Butler do?
