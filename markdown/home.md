@@ -2,7 +2,7 @@
 title: Editing Butler
 description: 
 published: true
-date: 2020-02-06T07:51:25.414Z
+date: 2020-02-06T07:54:14.229Z
 tags: 
 ---
 
@@ -16,6 +16,10 @@ But what if this would have already been done for you? What if you could bring i
 - but what if this would have already been done for you? What if you could bring in...
 
 Bring in the ideas you have from recording straight into the video editor.
+
+
+This is where the idea of Butler came from. Share ideas and notes to the video editor, especially if the editor is you in the future.
+
 
 Spend less time looking for the videos that you want to find and more time being creative. Not really what I want here in the intro
 
