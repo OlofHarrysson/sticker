@@ -2,7 +2,7 @@
 title: Editing Butler
 description: 
 published: true
-date: 2020-02-06T19:06:28.189Z
+date: 2020-02-06T19:08:07.222Z
 tags: 
 ---
 
@@ -19,16 +19,11 @@ Butler is a smart assistant that allows you to add information about your video 
 
 
 ## What can Butler do?
-By using Butler you can tag moments in a video and have that show up as a Final Cut marker on the clip. Clicking the marker allows you to show and edit the tag name that you chose.
+- By using Butler you can tag moments in a video and have that show up as a Final Cut marker on the clip. Clicking the marker allows you to show and edit the tag name that you chose.
 
-Butler can also help you divide a longer video into clips. If 
-
-
-This allows you to easier find the moments you're looking for while editing.
-
+- Butler can also help you divide a longer video into clips. If 
 
 
 Butler, what is it and what can it do for you
 How can it do that
-- Voice commands during recording
-- 
+Voice commands during recording
