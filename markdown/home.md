@@ -2,12 +2,12 @@
 title: Editing Butler
 description: 
 published: true
-date: 2020-02-06T19:21:36.597Z
+date: 2020-02-06T19:24:17.150Z
 tags: 
 ---
 
 # Editing Butler
-## Concept
+## Effortless structure from chaos
 
 Video editing is a time consuming process, especially if there's large amounts of unstructed media to sift through. To make the editing process more managable, one can look over the media and categorize it. This method might be preferable to the alternative of working with unorganized media but requires an intial effort that's neither fun nor free.
 
