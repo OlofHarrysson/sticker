@@ -2,12 +2,20 @@
 title: Editing Butler
 description: 
 published: true
-date: 2020-02-05T20:34:22.878Z
+date: 2020-02-06T07:51:25.414Z
 tags: 
 ---
 
 # Editing Butler
 ## Concept
+
+Video editing is a time consuming process, especially if there's large amounts of unstructed media to sift through. Many video editor first look through the media and categorize it to make it easier to work with down the road.
+
+But what if this would have already been done for you? What if you could bring in...
+
+- but what if this would have already been done for you? What if you could bring in...
+
+Bring in the ideas you have from recording straight into the video editor.
 
 Spend less time looking for the videos that you want to find and more time being creative. Not really what I want here in the intro
 
