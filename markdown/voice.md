@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-13T15:07:36.027Z
+date: 2020-02-13T16:02:08.829Z
 tags: voice, speech, ai
 ---
 
@@ -27,13 +27,18 @@ Add markers to categorize and search videos.
 Start and stop clips to organize takes.
 {.is-info}
 
-## koooorv
+## Use Butler
 #### Prepare Media for Butler
 - Import the footage containing Butler commands into its own event in Final Cut
 - Select the event and press <kbd>File</kbd> &rarr; <kbd>Export XML</kbd> from the Final Cut menu. Choose a name and save the file into the input_xml folder located in the butler project.
 
-#### Run Butler
+#### Enrich XML
+- Navigate to the butler project in your terminal
+- Run the command `python docker_enrich_xml.py --xml_file=input_xml/my-xml-file.fcpxml`
 
+
+
+asd
 asdasd
 - Record video footage containing Butler voice commands
 - Import the footage into Final Cut
