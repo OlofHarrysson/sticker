@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-13T12:41:58.973Z
+date: 2020-02-13T12:50:19.848Z
 tags: voice, speech, ai
 ---
 
@@ -27,9 +27,14 @@ Add markers to categorize and search videos.
 Start and stop clips to organize takes.
 {.is-info}
 
-Prepare Media for Butler
+## koooorv
+#### Prepare Media for Butler
 - Import the footage containing Butler commands into its own event in Final Cut
+- Select the event and press <kbd>File</kbd> &rarr; <kbd>Export XML</kbd> from the Final Cut menu. Choose a name and save the file into the Butler/input_xml folder.
 
+#### Run Butler
+
+asdasd
 - Record video footage containing Butler voice commands
 - Import the footage into Final Cut
 - Export the footage as an XML file from Final Cut
