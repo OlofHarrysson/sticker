@@ -2,7 +2,7 @@
 title: Requirements
 description: 
 published: true
-date: 2020-02-13T15:17:42.472Z
+date: 2020-02-13T15:35:57.635Z
 tags: Requirements
 ---
 
