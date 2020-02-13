@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-13T12:18:08.734Z
+date: 2020-02-13T12:41:58.973Z
 tags: voice, speech, ai
 ---
 
@@ -19,15 +19,16 @@ Butler is built to recognize certain voice commands. Like other voice assistants
 
 Butler~(BETA)~ starts of with two primary commands.
 - **Butler add marker \*marker-name\*** adds a marker to the timeline of the clip. Note that the marker name should consist of a single word.
-- **Butler start clip** and **Butler stop clip** Starts/stops a virtual clip that 
+- **Butler start clip** and **Butler stop clip** Starts/stops a virtual clip and adds the clip to a keyword collection.
 
-You can tag moments in a video and import it as a marker in Final Cut.
-Issue start and stop commands to create smaller clips (or different takes) from one continious shoot.
-For more information about what Butler can do and how it's used, see Usage.
+> **Suggested use cases**
+Add a marker to easily find interesting moments in a long or repetetive video.
+Add markers to categorize and search videos.
+Start and stop clips to organize takes.
+{.is-info}
 
-so to use Butler we'll lever
-
-The typical workflow to use Butler is as such.
+Prepare Media for Butler
+- Import the footage containing Butler commands into its own event in Final Cut
 
 - Record video footage containing Butler voice commands
 - Import the footage into Final Cut
@@ -43,14 +44,3 @@ run program
 import xml
 search xml
 change xml
-
-
-
-Your content here
-Butler is analyzing speech
-
-Butler(BETA) starts of with two primary functions.
-
-You can tag moments in a video and import it as a marker in Final Cut.
-Issue start and stop commands to create smaller clips (or different takes) from one continious shoot.
-For more information about what Butler can do and how it's used, see Usage.
