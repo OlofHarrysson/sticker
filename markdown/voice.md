@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-13T12:50:19.848Z
+date: 2020-02-13T12:52:52.896Z
 tags: voice, speech, ai
 ---
 
