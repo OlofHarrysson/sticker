@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-13T12:02:00.961Z
+date: 2020-02-13T12:18:08.734Z
 tags: voice, speech, ai
 ---
 
@@ -19,7 +19,7 @@ Butler is built to recognize certain voice commands. Like other voice assistants
 
 Butler~(BETA)~ starts of with two primary commands.
 - **Butler add marker \*marker-name\*** adds a marker to the timeline of the clip. Note that the marker name should consist of a single word.
-- **Butler start clip** Starts the 
+- **Butler start clip** and **Butler stop clip** Starts/stops a virtual clip that 
 
 You can tag moments in a video and import it as a marker in Final Cut.
 Issue start and stop commands to create smaller clips (or different takes) from one continious shoot.
