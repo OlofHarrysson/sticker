@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-13T16:49:37.293Z
+date: 2020-02-13T16:54:40.818Z
 tags: voice, speech, ai
 ---
 
@@ -38,4 +38,4 @@ Start and stop clips to organize takes.
 
 Thats it! The enriched xml file will, with the default settings, be imported to Final Cut and saved to the folder named output if one wishes to import it manually. 
 
-
+To change the default settings, open the file settings.py in a text editor and change e.g. `self.send_to_finalcut = True` to `self.send_to_finalcut = False` if you don't want the enriched xml file to be automatically imported to Final Cut.
