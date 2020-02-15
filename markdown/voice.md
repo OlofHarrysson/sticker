@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-15T20:36:49.642Z
+date: 2020-02-15T20:58:44.066Z
 tags: voice, speech, ai
 ---
 
@@ -21,11 +21,15 @@ Butler~(BETA)~ starts of with two primary commands.
 - **Butler add marker \*marker-name\*** adds a marker to the timeline of the clip. Note that the marker name should consist of a single word.
 - **Butler start clip** and **Butler stop clip** starts/stops a virtual clip and adds the clip to a keyword collection.
 
-> **Suggested use cases**
-Add markers to easily find interesting moments in a long or repetetive video.
-Add markers to categorize and search videos.
-Start and stop clips to organize takes.
+> #### **Suggested Use Cases**
+> - Add markers to easily find interesting moments in a long or repetetive video.
+> - Add markers to categorize and search videos.
+> - Start and stop clips to organize takes.
 {.is-info}
+
+> asdasd
+> asdasd
+> asd
 
 Want more features? Tell us what  them to the [Feature Requests](../../html/featurerequests)
 
