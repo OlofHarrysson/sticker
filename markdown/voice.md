@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-15T20:58:44.066Z
+date: 2020-02-15T21:01:43.251Z
 tags: voice, speech, ai
 ---
 
@@ -21,19 +21,18 @@ Butler~(BETA)~ starts of with two primary commands.
 - **Butler add marker \*marker-name\*** adds a marker to the timeline of the clip. Note that the marker name should consist of a single word.
 - **Butler start clip** and **Butler stop clip** starts/stops a virtual clip and adds the clip to a keyword collection.
 
-> #### **Suggested Use Cases**
-> - Add markers to easily find interesting moments in a long or repetetive video.
-> - Add markers to categorize and search videos.
-> - Start and stop clips to organize takes.
+> **Suggested Use Cases**
+Add markers to easily find interesting moments in a long or repetetive video.
+Add markers to categorize and search videos.
+Start and stop clips to organize takes.
 {.is-info}
-
-> asdasd
-> asdasd
-> asd
 
 Want more features? Tell us what  them to the [Feature Requests](../../html/featurerequests)
 
 ## Use Butler
+> How to use video placeholder
+{.is-success}
+
 #### Prepare Media for Butler
 - Import the footage containing Butler commands into its own event in Final Cut
 - Select the event and press <kbd>File</kbd> &rarr; <kbd>Export XML</kbd> from the Final Cut menu. Choose a name and save the file into the input_xml folder located in the butler project.
