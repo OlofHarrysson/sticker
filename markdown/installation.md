@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-02-15T20:38:50.982Z
+date: 2020-02-15T20:48:50.095Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -13,12 +13,14 @@ This guide will help you install Butler and verify that it was installed correct
 > Before starting the installation, make sure that you meet the [requirements](../markdown/requirements).
 {.is-info}
 
+> Not a developer? The [installation video](TODO) might help 
+{.is-info}
+
 ## Easy Installation - Docker
 The easiest way to run Butler is through Docker. You can get [Docker Desktop](https://www.docker.com/get-started) for Mac at their website. Docker makes it easy to install all the code-requirements so you don't have to! See **Custom Installation** below if you wish to install the program differently.
 
-### Project Setup
-> Not a developer? The [installation video](TODO) might help 
-{.is-info}
+### After installing Docker
+
 
 ###### Clone the git repo
 ```bash
