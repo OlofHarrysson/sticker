@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-15T20:30:23.360Z
+date: 2020-02-15T20:31:33.765Z
 tags: voice, speech, ai
 ---
 
@@ -40,4 +40,4 @@ Want more features? Tell us what  them to the [Feature Requests](TODO)
 
 Thats it! The enriched xml file will, with the default settings, be imported to Final Cut and saved to the folder named output if one wishes to import it manually. 
 
-To change the default settings, open the file settings.py in a text editor and change e.g. `self.send_to_finalcut = True` to `self.send_to_finalcut = False` if you don't want the enriched xml file to be automatically imported to Final Cut.
+To change the default settings, open the file settings\.py in a text editor and change e.g. `self.send_to_finalcut = True` to `self.send_to_finalcut = False` if you don't want the enriched xml file to be automatically imported to Final Cut.
