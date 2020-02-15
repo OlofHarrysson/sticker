@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-15T21:01:43.251Z
+date: 2020-02-15T21:06:30.902Z
 tags: voice, speech, ai
 ---
 
@@ -37,10 +37,11 @@ Want more features? Tell us what  them to the [Feature Requests](../../html/feat
 - Import the footage containing Butler commands into its own event in Final Cut
 - Select the event and press <kbd>File</kbd> &rarr; <kbd>Export XML</kbd> from the Final Cut menu. Choose a name and save the file into the input_xml folder located in the butler project.
 
+
 #### Enrich XML
 - Navigate to the butler project in your terminal
 - Run the command `python docker_enrich_xml.py --xml_file=input_xml/*my-xml-file*.fcpxml` but replace \*my-xml-file\* with the name of the file that was exported from Final Cut.
 
 Thats it! The enriched xml file will, with the default settings, be imported to Final Cut and saved to the folder named output if one wishes to import it manually. 
 
-To change the default settings, open the file `settings.py` in a text editor and change e.g. `self.send_to_finalcut = True` to `self.send_to_finalcut = False` if you don't want the enriched xml file to be automatically imported to Final Cut.
+To change the default settings, open the file `settings.py` in a text editor and change e.g. `self.send_to_finalcut = True` to `self.send_to_finalcut = False` to disable the enriched xml file to be automatically imported to Final Cut.
