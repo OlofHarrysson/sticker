@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-02-15T20:52:36.199Z
+date: 2020-02-22T17:36:17.198Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -33,7 +33,7 @@ python setup/build_docker.py
 
 ###### Test the program
 ```python
-python docker_enrich_xml.py --xml_file=assets/setup_test.fcpxml
+python docker_enrich_xml.py --xml_file=assets/setup_test.fcpxml --test_install==True
 ```
 
 ---
@@ -55,10 +55,6 @@ conda install -c conda-forge ffmpeg
 pip install -r setup/requirements.txt
 ```
 
-###### Test the program
-```python
-python enrich_xml.py --xml_file=assets/setup_test.fcpxml
-```
 
 # Private Google Cloud Project
 Butler~(BETA)~ runs on the **Google Cloud API SpeechToText**. Since this is costly to run for us (about $4/hour of speech), we suspend the program once the **daily limit** of requests is reached. This quota is not individual but **shared amongst all users**.
