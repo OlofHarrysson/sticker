@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-03-07T13:45:25.071Z
+date: 2020-03-07T13:47:51.216Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -60,11 +60,11 @@ Butler~(BETA)~ runs on the **Google Cloud API SpeechToText**. Since this is cost
 If you'd like to continue to use Butler after the daily limit is reached you'll have to create your own Google Cloud project.
 
 ### Setup a Google Cloud Project
-1. Go to [https://cloud.google.com/](https://cloud.google.com/) and create an account. Google offers [Free Credits](https://cloud.google.com/free/docs/gcp-free-tier) for new users
+1. Go to [https://cloud.google.com/](https://cloud.google.com/) and create an account. Google offers [Free Credits](https://cloud.google.com/free/docs/gcp-free-tier) for new users.
 2. Create a new project.
 
 ### Setup Google Cloud Storage
-Googles SpeechToText service requires the sound file to be uploaded to Google's cloud storage.
+Googles **SpeechToText** service requires the sound file to be uploaded to Google's cloud storage.
 1. Go to [https://console.cloud.google.com/storage/](https://console.cloud.google.com/storage/)
 2. Create a new bucket and remember the name. Use the default settings for the options.
 
@@ -72,7 +72,7 @@ Googles SpeechToText service requires the sound file to be uploaded to Google's 
 1. Go to [https://console.cloud.google.com/apis/library/speech.googleapis.com](https://console.cloud.google.com/apis/library/speech.googleapis.com).
 2. Press <kbd>Enable</kbd> and wait for the console page to load.
 3. Go to the [Credentials](https://console.cloud.google.com/apis/credentials) page and press <kbd>Create credentials</kbd> &rarr; <kbd>Service account key</kbd>.
-4. Set the role to Project Owner and create a json key. Don't share this key-file as anyone who gets a hold of it can access and use your Google Cloud project.
+4. Set the role to **Project Owner** and create a json key. Don't share this key-file as anyone who gets a hold of it can access and use your Google Cloud project.
 5. Move the file to the editing-butler directory.
-6. Open the file `config.py` file in a text editor and change the google_key value to your file path. e.g. `self.google_key = myfilename.json`.
+6. Open the file `settings.py` file in a text editor and change the google_key value to your file path. e.g. `self.google_key = myfilename.json`
 7. Test the program as described in the installation guide.
