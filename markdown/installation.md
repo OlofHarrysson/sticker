@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-03-07T14:01:30.632Z
+date: 2020-03-07T14:09:01.583Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -71,8 +71,8 @@ Googles **SpeechToText** service requires the sound file to be uploaded to Googl
 ### Enable the Speech to Text API
 1. Go to [https://console.cloud.google.com/apis/library/speech.googleapis.com](https://console.cloud.google.com/apis/library/speech.googleapis.com).
 2. Press <kbd>Enable</kbd> and wait for the console page to load.
-3. Go to the [Credentials](https://console.cloud.google.com/apis/credentials) page and press <kbd>Create credentials</kbd> &rarr; <kbd>Service account</kbd>
-4. Set the role to **Project Owner** and create a json key. Don't share this key-file as anyone who gets a hold of it can access and use your Google Cloud project.
+3. Go to the [Credentials](https://console.cloud.google.com/apis/credentials) page and press <kbd>Create credentials</kbd> &rarr; <kbd>Service account</kbd>. Give the service account a name, id and description of your choice and press <kbd>Create</kbd>.
+4. In step 2 "Grant this service account access to project", set the role to **Project Owner** and press <kbd>Continue</kbd>.  In step 3 "Grant users access to this service account", press <kbd>Create key</kbd> to download the json-file that contains the key. Don't share this key-file as anyone who gets a hold of it can access and use your Google Cloud project. Press <kbd>Done</kbd> to complete the service account setup
 5. Move the file to the editing-butler directory.
 6. Open the file `settings.py` file in a text editor and change the google_key value to your file path. e.g. `self.google_key = myfilename.json`
 7. Test the program as described in the installation guide.
