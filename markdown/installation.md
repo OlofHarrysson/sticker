@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-03-07T14:11:45.568Z
+date: 2020-03-07T14:19:37.295Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -66,7 +66,7 @@ If you'd like to continue to use Butler after the daily limit is reached you'll 
 ### Setup Google Cloud Storage
 Googles **SpeechToText** service requires the sound file to be uploaded to Google's cloud storage.
 1. Go to [https://console.cloud.google.com/storage/](https://console.cloud.google.com/storage/)
-2. Create a new bucket and remember the name. Use the default settings for the options.
+2. Create a new bucket and **remember the name**. Use the default settings for the options.
 
 ### Enable the Speech to Text API
 1. Go to [https://console.cloud.google.com/apis/library/speech.googleapis.com](https://console.cloud.google.com/apis/library/speech.googleapis.com).
@@ -76,5 +76,5 @@ Googles **SpeechToText** service requires the sound file to be uploaded to Googl
 5. Press <kbd>Create key</kbd> to download the json-file that contains the key. Name it e.g. **mybutlerkey.json**. Don't share this key-file as anyone who gets a hold of it can access and use your Google Cloud project.
 6. Press <kbd>Done</kbd> to complete the service account setup.
 5. Move the file to the editing-butler directory.
-6. Open the file `settings.py` file in a text editor and change the google_key value to your file path. e.g. `self.google_key = mybutlerkey.json`
+6. Open the file `settings.py` file in a text editor and change the google_key value to your file path. e.g. `self.google_key = 'mybutlerkey.json'` and `self.google_bucket_name = 'butler-bucket'`
 7. Test the program as described in the installation guide.
