@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-03-07T13:20:29.556Z
+date: 2020-03-07T14:22:51.505Z
 tags: 
 ---
 
@@ -27,5 +27,5 @@ Butler~(BETA)~ starts of with two primary functions.
 - You can tag moments in a video and import it as a marker in Final Cut.
 - Issue start and stop commands to create smaller clips (or different takes) from one continious shoot.
 
-For more information about what Butler can do and how it's used, see [Voice Recognition](../markdown/voice).
+For more information about what Butler can do and how it's used, see [Voice Recognition](.https://www.editingbutler.com/markdown/voice).
 
