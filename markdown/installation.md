@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-02-22T17:49:23.882Z
+date: 2020-03-07T13:43:38.844Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -60,7 +60,7 @@ Butler~(BETA)~ runs on the **Google Cloud API SpeechToText**. Since this is cost
 If you'd like to continue to use Butler after the daily limit is reached you'll have to create your own Google Cloud project.
 
 ### Setup a Google Cloud Project
-1. Go to [https://cloud.google.com/](https://cloud.google.com/) and create an account.
+1. Go to [https://cloud.google.com/](https://cloud.google.com/) and create an account. [Free Credits](https://cloud.google.com/free/docs/gcp-free-tier)
 2. Create a new project.
 
 ### Setup Google Cloud Storage
