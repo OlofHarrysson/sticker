@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-02-15T21:06:30.902Z
+date: 2020-04-03T15:33:22.338Z
 tags: voice, speech, ai
 ---
 
@@ -30,8 +30,18 @@ Start and stop clips to organize takes.
 Want more features? Tell us what  them to the [Feature Requests](../../html/featurerequests)
 
 ## Use Butler
-> How to use video placeholder
-{.is-success}
+<div style="background-color:lightblue;margin:0;padding:0;height:70vh;overflow:hidden;">
+  <iframe id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="100vh"
+  height="100%"
+  frameborder="0"
+  style="overflow:hidden;height:100%;width:100%"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  src="https://www.youtube.com/embed/Gk-wNunhERk">
+  </iframe>
+</div>
 
 #### Prepare Media for Butler
 - Import the footage containing Butler commands into its own event in Final Cut
