@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-04-03T13:42:43.227Z
+date: 2020-04-03T13:42:55.534Z
 tags: 
 ---
 
@@ -18,6 +18,7 @@ tags:
   src="https://www.youtube.com/embed/Gk-wNunhERk">
   </iframe>
 </div>
+
 ## Effortless structure from chaos
 
 Video editing is a time consuming process, especially if there's large amounts of unstructed media to sift through. To make the editing process more managable, one can look over the media and categorize it. This method might be preferable to the alternative of working with unorganized media but requires an intial effort that's neither fun nor free.
