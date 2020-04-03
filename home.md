@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-04-03T13:44:23.792Z
+date: 2020-04-03T13:47:22.085Z
 tags: 
 ---
 
@@ -15,9 +15,12 @@ tags:
   height="100%"
   frameborder="0"
   style="overflow:hidden;height:100%;width:100%"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
   src="https://www.youtube.com/embed/Gk-wNunhERk">
   </iframe>
 </div>
+
 
 ## Effortless structure from chaos
 
