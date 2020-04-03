@@ -2,25 +2,11 @@
 title: Home
 description: 
 published: true
-date: 2020-04-03T13:41:33.484Z
+date: 2020-04-03T13:42:22.391Z
 tags: 
 ---
 
 # Editing Butler
-
-
-
-
-<div style="background-color:lightblue;margin:0;padding:0;height:100vh;overflow:hidden;">
-	<iframe 
-  width="100vh"
-  height="100%"
-  src="https://www.youtube.com/embed/Gk-wNunhERk"
-  frameborder="0"
-	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
-</div>
-
 
 <div style="background-color:lightblue;margin:0;padding:0;height:100vh;overflow:hidden;">
   <iframe id="inlineFrameExample"
