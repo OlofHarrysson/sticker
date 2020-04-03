@@ -2,7 +2,7 @@
 title: Installing Butler
 description: 
 published: true
-date: 2020-03-07T14:25:25.024Z
+date: 2020-04-03T13:54:02.724Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -11,7 +11,7 @@ tags: installation, google cloud, docker, test, install, installing
 This guide will help you install Butler and verify that it was installed correctly.
 
 > Before starting the installation, make sure that you meet the [requirements](https://www.editingbutler.com/markdown/requirements).
-Not a developer? The [installation video](TODO) might help 
+Not a developer? The [installation video](https://www.youtube.com/watch?v=RjP0nwNdP80) might help 
 {.is-info}
 
 ## Easy Installation - Docker
