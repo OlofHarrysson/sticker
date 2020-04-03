@@ -2,14 +2,36 @@
 title: Home
 description: 
 published: true
-date: 2020-03-07T14:23:32.357Z
+date: 2020-04-03T13:41:33.484Z
 tags: 
 ---
 
 # Editing Butler
-> Video of Butler intro placeholder
-{.is-success}
 
+
+
+
+<div style="background-color:lightblue;margin:0;padding:0;height:100vh;overflow:hidden;">
+	<iframe 
+  width="100vh"
+  height="100%"
+  src="https://www.youtube.com/embed/Gk-wNunhERk"
+  frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+</div>
+
+
+<div style="background-color:lightblue;margin:0;padding:0;height:100vh;overflow:hidden;">
+  <iframe id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="100vh"
+  height="100%"
+  frameborder="0"
+  style="overflow:hidden;height:100%;width:100%"
+  src="https://www.youtube.com/embed/Gk-wNunhERk">
+  </iframe>
+</div>
 ## Effortless structure from chaos
 
 Video editing is a time consuming process, especially if there's large amounts of unstructed media to sift through. To make the editing process more managable, one can look over the media and categorize it. This method might be preferable to the alternative of working with unorganized media but requires an intial effort that's neither fun nor free.
