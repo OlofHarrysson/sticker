@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-03T15:33:22.338Z
+date: 2020-04-03T15:34:59.674Z
 tags: voice, speech, ai
 ---
 
@@ -27,7 +27,7 @@ Add markers to categorize and search videos.
 Start and stop clips to organize takes.
 {.is-info}
 
-Want more features? Tell us what  them to the [Feature Requests](../../html/featurerequests)
+Want more features? Tell us about them at the [Feature Requests](../../html/featurerequests) page
 
 ## Use Butler
 <div style="background-color:lightblue;margin:0;padding:0;height:70vh;overflow:hidden;">
