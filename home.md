@@ -2,24 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2020-04-03T13:47:22.085Z
+date: 2020-04-03T15:32:05.900Z
 tags: 
 ---
 
 # Editing Butler
 
-<div style="background-color:lightblue;margin:0;padding:0;height:70vh;overflow:hidden;">
-  <iframe id="inlineFrameExample"
-  title="Inline Frame Example"
-  width="100vh"
-  height="100%"
-  frameborder="0"
-  style="overflow:hidden;height:100%;width:100%"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen
-  src="https://www.youtube.com/embed/Gk-wNunhERk">
-  </iframe>
-</div>
+
 
 
 ## Effortless structure from chaos
@@ -41,3 +30,15 @@ Butler~(BETA)~ starts of with two primary functions.
 
 For more information about what Butler can do and how it's used, see [Voice Recognition](https://www.editingbutler.com/markdown/voice).
 
+<div style="background-color:lightblue;margin:0;padding:0;height:70vh;overflow:hidden;">
+  <iframe id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="100vh"
+  height="100%"
+  frameborder="0"
+  style="overflow:hidden;height:100%;width:100%"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+  src="https://www.youtube.com/embed/Gk-wNunhERk">
+  </iframe>
+</div>
