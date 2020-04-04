@@ -1,8 +1,8 @@
 ---
 title: Installation
-description: Pick your preferred method
+description: Up and running in 10 minutes
 published: true
-date: 2020-04-04T14:51:56.715Z
+date: 2020-04-04T14:53:40.382Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
