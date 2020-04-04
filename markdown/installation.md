@@ -1,8 +1,8 @@
 ---
-title: 
-description: 
+title: Installation
+description: Pick your preferred method
 published: true
-date: 2020-04-04T13:16:10.196Z
+date: 2020-04-04T13:17:57.836Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
