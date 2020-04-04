@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-03T15:34:59.674Z
+date: 2020-04-04T14:14:01.915Z
 tags: voice, speech, ai
 ---
 
@@ -10,7 +10,7 @@ tags: voice, speech, ai
 
 ## Overview
 
-Butler utilizes Final Cut Pro's xml support to transfer the details of your libraries, events, projects, and clips between Final Cut and third-party applications ([more info](https://support.apple.com/guide/final-cut-pro/use-xml-to-transfer-projects-verdbd66ae/mac)). The typical workflow to use Butler is therefor to send the xml from **Final Cut &rarr; Butler &rarr; Final Cut.**
+Butler utilizes Final Cut Pro's xml support to transfer the details of your libraries, events, projects and clips between Final Cut and third-party applications ([more info](https://support.apple.com/guide/final-cut-pro/use-xml-to-transfer-projects-verdbd66ae/mac)). The typical workflow to use Butler is therefore to send the xml from **Final Cut &rarr; Butler &rarr; Final Cut.**
 
 
 ## Voice Commands
