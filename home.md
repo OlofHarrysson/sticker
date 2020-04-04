@@ -2,7 +2,7 @@
 title: Editing Butler
 description: Media Organization
 published: true
-date: 2020-04-04T16:12:38.636Z
+date: 2020-04-04T19:36:20.572Z
 tags: 
 ---
 
@@ -14,13 +14,13 @@ Butler was created to alleviate some undesirable aspects of organizing raw video
 
 <br>
 
-![before_after.gif](/before_after.gif =50%x)
-
+<div>
+<img src="/before_after.gif" alt="before-after-butler"
+     class="center align-center"
+     style="width: 50%; height: 50%">
+</div>
 <br>
 
-<img src="/before_after.gif" alt="before-after-butler"
-     class="center"
-     style="width: 50%; height: 50%">
 
 ## What is Butler?
 Butler is a **smart assistant** that allows you to add information about your video clips during recording. To do this, Butler utilizes speech recognition to listen for certain **voice commands** similarly to Siri or Alexa. These voice commands are interpreted and used to organize your media within **Final Cut Pro**.
