@@ -2,11 +2,10 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-04T14:45:03.916Z
+date: 2020-04-04T14:45:49.454Z
 tags: voice, speech, ai
 ---
 
-# Using Butler
 
 ## Overview
 
