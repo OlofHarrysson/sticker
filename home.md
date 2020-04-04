@@ -2,7 +2,7 @@
 title: Editing Butler
 description: Media Organization
 published: true
-date: 2020-04-04T19:49:52.160Z
+date: 2020-04-04T20:07:50.945Z
 tags: 
 ---
 
@@ -16,13 +16,27 @@ Butler was created to alleviate some undesirable aspects of organizing raw video
 <br>
 <br>
 
-<div class="center align-center">
+<div class="align-center">
 	<img src="/before_after.gif" alt="before-after-butler"
      class="center align-center"
      style="width: 50%; height: 50%">
   <p class="center align-center">HEJ</p>
+  <div class="caption">Caption 2</div>
 </div>
 <br>
+
+<div class="box-outer">
+  <div class="inner">HEEEJasdasdasd</div>
+	<img src="/before_after.gif" alt="before-after-butler"
+     style="width: 50%; height: 50%">
+  <p>HEJ</p>
+  <div class="caption">Caption 2</div>
+</div>
+
+<figure>
+  <img src="/before_after.gif" alt="Trulli" style="width:50%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
 
 
 ## What is Butler?
