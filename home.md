@@ -2,7 +2,7 @@
 title: Editing Butler
 description: Media Organization
 published: true
-date: 2020-04-04T19:36:20.572Z
+date: 2020-04-04T19:36:34.967Z
 tags: 
 ---
 
@@ -12,6 +12,8 @@ Video editing is a time consuming process, especially if there's large amounts o
 
 Butler was created to alleviate some undesirable aspects of organizing raw video footage. It allows you to effortlessly take notes and issue commands during a shoot without any additional tools than your own voice. Wouldn't it be great to transfer ideas at the set to whoever is editing the video, especially if you're editing your own videos!
 
+<br>
+<br>
 <br>
 
 <div>
