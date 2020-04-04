@@ -2,11 +2,10 @@
 title: Installation
 description: Pick your preferred method
 published: true
-date: 2020-04-04T13:17:57.836Z
+date: 2020-04-04T13:18:22.505Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
-# Installation
 
 This guide will help you install Butler and verify that it was installed correctly.
 
