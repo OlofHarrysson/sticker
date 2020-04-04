@@ -1,13 +1,10 @@
 ---
-title: Home
+title: Editing Butler
 description: 
 published: true
-date: 2020-04-03T15:52:59.485Z
+date: 2020-04-04T14:56:25.064Z
 tags: 
 ---
-
-# Editing Butler
-
 
 
 
