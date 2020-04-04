@@ -2,7 +2,7 @@
 title: Installation
 description: Pick your preferred method
 published: true
-date: 2020-04-04T13:18:22.505Z
+date: 2020-04-04T13:19:43.087Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -59,6 +59,10 @@ pip install -r setup/requirements.txt
 
 
 # Private Google Cloud Project
+> Creating a private google cloud project is **optional**
+{.is-info}
+
+
 Butler~(BETA)~ runs on the **Google Cloud API SpeechToText**. Since this is costly to run for us (about $4/hour of speech), we suspend the program once the **daily limit** of requests is reached. This quota is not individual but **shared amongst all users**.
 
 If you'd like to continue to use Butler after the daily limit is reached you'll have to create your own Google Cloud project.
