@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-04T14:28:09.374Z
+date: 2020-04-04T14:34:27.302Z
 tags: voice, speech, ai
 ---
 
@@ -10,7 +10,7 @@ tags: voice, speech, ai
 
 ## Overview
 
-Butler utilizes Final Cut Pro's xml support to transfer the details of your libraries, events, projects and clips between Final Cut and third-party applications ([more info](https://support.apple.com/guide/final-cut-pro/use-xml-to-transfer-projects-verdbd66ae/mac)). The typical workflow to use Butler is therefore to send the xml from **Final Cut &rarr; Butler &rarr; Final Cut.**
+Butler utilizes **Final Cut Pro**'s xml support to transfer the details of your libraries, events, projects and clips between Final Cut and third-party applications ([more info](https://support.apple.com/guide/final-cut-pro/use-xml-to-transfer-projects-verdbd66ae/mac)). The typical workflow to use Butler is therefore to send the xml from **Final Cut &rarr; Butler &rarr; Final Cut.**
 
 
 ## Voice Commands
@@ -22,9 +22,9 @@ Butler~(BETA)~ starts of with two primary commands.
 - **_Butler start clip_** and **_Butler stop clip_** starts/stops a virtual clip and adds the clip to a keyword collection.
 
 > **Suggested Use Cases**
-Add markers to easily find interesting moments in a long or repetetive video.
-Add markers to categorize and search videos.
-Start and stop clips to organize takes.
+*Add markers to easily find interesting moments in a long or repetetive video.*
+*Add markers to categorize and search videos.*
+*Start and stop clips to organize takes.*
 {.is-info}
 
 Want more features? Tell us about them at the [Feature Requests](../../html/featurerequests) page
