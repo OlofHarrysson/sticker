@@ -2,7 +2,7 @@
 title: Editing Butler
 description: Media Organization
 published: true
-date: 2020-04-04T20:09:20.399Z
+date: 2020-04-04T20:09:44.704Z
 tags: 
 ---
 
@@ -20,9 +20,9 @@ Butler was created to alleviate some undesirable aspects of organizing raw video
 	<img src="/before_after.gif" alt="before-after-butler"
      class="center align-center"
      style="width: 50%; height: 50%">
-  <p class="center align-center">HEJ</p>
-  <div class="caption">Caption 2</div>
 </div>
+<br>
+<br>
 <br>
 
 <div class="box-outer">
