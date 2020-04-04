@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-04T14:14:01.915Z
+date: 2020-04-04T14:15:48.243Z
 tags: voice, speech, ai
 ---
 
@@ -15,7 +15,7 @@ Butler utilizes Final Cut Pro's xml support to transfer the details of your libr
 
 ## Voice Commands
 
-Butler is built to recognize certain voice commands. Like other voice assistants, Butler starts paying attention to what you're saying when it hears a certain **wake word** - in this case **Butler**. The immediately following words are the **command words** which describes what you'd like Butler to do.
+Butler is built to recognize certain voice commands. Like other voice assistants, Butler starts paying attention to what you're saying when it hears a certain **wake word** - in this case **Butler**. The immediately following words are the **command words** which describe what you'd like Butler to do.
 
 Butler~(BETA)~ starts of with two primary commands.
 - **Butler add marker \*marker-name\*** adds a marker to the timeline of the clip. Note that the marker name should consist of a single word.
