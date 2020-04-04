@@ -2,11 +2,10 @@
 title: Editing Butler
 description: 
 published: true
-date: 2020-04-04T14:56:53.386Z
+date: 2020-04-04T14:57:08.140Z
 tags: 
 ---
 
-# Editing Butler
 
 ## Effortless structure from chaos
 
