@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-04T14:34:27.302Z
+date: 2020-04-04T14:36:44.741Z
 tags: voice, speech, ai
 ---
 
@@ -44,7 +44,7 @@ Want more features? Tell us about them at the [Feature Requests](../../html/feat
 </div>
 
 #### Prepare Media for Butler
-- Import the footage containing Butler commands into its own event in Final Cut
+- Import the footage containing Butler commands into its own event in Final Cut.
 - Select the event and press <kbd>File</kbd> &rarr; <kbd>Export XML</kbd> from the Final Cut menu. Choose a name and save the file into the input_xml folder located in the butler project.
 
 
