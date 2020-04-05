@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-04T14:46:24.453Z
+date: 2020-04-05T08:38:15.477Z
 tags: voice, speech, ai
 ---
 
@@ -28,7 +28,7 @@ Butler~(BETA)~ starts of with two primary commands.
 
 Want more features? Tell us about them at the [Feature Requests](../../html/featurerequests) page
 
-## Use Butler
+## How to Use Butler
 <div style="background-color:lightblue;margin:0;padding:0;height:70vh;overflow:hidden;">
   <iframe id="inlineFrameExample"
   title="Inline Frame Example"
