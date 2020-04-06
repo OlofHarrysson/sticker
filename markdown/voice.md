@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-06T18:44:06.643Z
+date: 2020-04-06T18:44:43.225Z
 tags: voice, speech, ai
 ---
 
@@ -29,6 +29,17 @@ Butler~(BETA)~ starts of with two primary commands.
 Want more features? Tell us about them at the [Feature Requests](../../html/featurerequests) page
 
 ## How to Use Butler
+
+#### Prepare Media for Butler
+- Import the footage containing Butler commands into its own event in Final Cut.
+- Select the event and press <kbd>File</kbd> &rarr; <kbd>Export XML</kbd> from the Final Cut menu. Choose a name and save the file into the input_xml folder located in the butler project.
+
+
+#### Enrich XML
+- Navigate to the butler project in your terminal
+- Run the command `python docker_enrich_xml.py --xml_file=input_xml/*my-xml-file*.fcpxml` but replace \*my-xml-file\* with the name of the file that was exported from Final Cut.
+- Butler produces a new xml-file in the output folder of the project that contains the voice command information. Import the file in Final Cut's menu <kbd>File</kbd> &rarr; <kbd>Import</kbd> &rarr; <kbd>XML...</kbd>
+
 <div style="background-color:lightblue;margin:0;padding:0;height:70vh;overflow:hidden;">
   <iframe id="inlineFrameExample"
   title="Inline Frame Example"
@@ -41,14 +52,3 @@ Want more features? Tell us about them at the [Feature Requests](../../html/feat
   src="https://www.youtube.com/embed/Gk-wNunhERk">
   </iframe>
 </div>
-<br>
-
-#### Prepare Media for Butler
-- Import the footage containing Butler commands into its own event in Final Cut.
-- Select the event and press <kbd>File</kbd> &rarr; <kbd>Export XML</kbd> from the Final Cut menu. Choose a name and save the file into the input_xml folder located in the butler project.
-
-
-#### Enrich XML
-- Navigate to the butler project in your terminal
-- Run the command `python docker_enrich_xml.py --xml_file=input_xml/*my-xml-file*.fcpxml` but replace \*my-xml-file\* with the name of the file that was exported from Final Cut.
-- Butler produces a new xml-file in the output folder of the project that contains the voice command information. Import the file in Final Cut's menu <kbd>File</kbd> &rarr; <kbd>Import</kbd> &rarr; <kbd>XML...</kbd>
