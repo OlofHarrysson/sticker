@@ -2,7 +2,7 @@
 title: Voice Recognition
 description: Butler voice commands
 published: true
-date: 2020-04-05T08:38:15.477Z
+date: 2020-04-06T18:44:06.643Z
 tags: voice, speech, ai
 ---
 
@@ -41,6 +41,7 @@ Want more features? Tell us about them at the [Feature Requests](../../html/feat
   src="https://www.youtube.com/embed/Gk-wNunhERk">
   </iframe>
 </div>
+<br>
 
 #### Prepare Media for Butler
 - Import the footage containing Butler commands into its own event in Final Cut.
