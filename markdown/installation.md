@@ -2,7 +2,7 @@
 title: Installation
 description: Up and running in 10 minutes
 published: true
-date: 2020-04-04T14:55:58.669Z
+date: 2020-04-06T18:46:00.249Z
 tags: installation, google cloud, docker, test, install, installing
 ---
 
@@ -15,6 +15,8 @@ Before starting the installation, make sure that you meet the [requirements](htt
 
 ## Easy Installation - Docker
 The easiest way to run Butler is through Docker, a program that makes it easy to share code projects with others. You can get [Docker Desktop](https://www.docker.com/get-started) for Mac at their website. See **Custom Installation** below if you wish to install the program differently.
+
+<br>
 
 ###### Install and Verify Docker
 Download Docker and install it like any other Mac application. After installation, open the Docker app. It will need your admin password the first time. More information can be found at the [Docker website](https://docs.docker.com/docker-for-mac/install/). 	
